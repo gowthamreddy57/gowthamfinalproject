@@ -1,0 +1,42 @@
+[
+  {
+    "id": "nli_001",
+    "premise": "A man is playing guitar on stage.",
+    "hypothesis": "A person is performing music.",
+    "prediction": "entailment",
+    "gold_label": "entailment",
+    "language": "en"
+  },
+  {
+    "id": "nli_002",
+    "premise": "The cat is sleeping on the couch.",
+    "hypothesis": "The cat is running outside.",
+    "prediction": "contradiction",
+    "gold_label": "contradiction",
+    "language": "en"
+  },
+  {
+    "id": "nli_003",
+    "premise": "A woman is reading a book in the library.",
+    "hypothesis": "A woman is holding something.",
+    "prediction": "entailment",
+    "gold_label": "entailment",
+    "language": "en"
+  },
+  {
+    "id": "nli_004",
+    "premise": "Los niños están jugando en el parque.",
+    "hypothesis": "Hay niños afuera.",
+    "prediction": "entailment",
+    "gold_label": "entailment",
+    "language": "es"
+  },
+  {
+    "id": "nli_005",
+    "premise": "It is raining heavily outside.",
+    "hypothesis": "The weather might be bad.",
+    "prediction": "neutral",
+    "gold_label": "entailment",
+    "language": "en"
+  }
+]

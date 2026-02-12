@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ner_001",
+    "text": "Barack Obama was born in Honolulu, Hawaii.",
+    "prediction": "PER: Barack Obama $$ LOC: Honolulu $$ LOC: Hawaii",
+    "gold_entities": "PER: Barack Obama $$ LOC: Honolulu $$ LOC: Hawaii",
+    "language": "en"
+  },
+  {
+    "id": "ner_002",
+    "text": "Apple Inc. was founded by Steve Jobs in Cupertino.",
+    "prediction": "ORG: Apple Inc. $$ PER: Steve Jobs $$ LOC: Cupertino",
+    "gold_entities": "ORG: Apple Inc. $$ PER: Steve Jobs $$ LOC: Cupertino",
+    "language": "en"
+  },
+  {
+    "id": "ner_003",
+    "text": "Angela Merkel fue canciller de Alemania.",
+    "prediction": "PER: Angela Merkel $$ LOC: Alemania",
+    "gold_entities": "PER: Angela Merkel $$ LOC: Alemania",
+    "language": "es"
+  },
+  {
+    "id": "ner_004",
+    "text": "The Eiffel Tower is located in Paris, France.",
+    "prediction": "LOC: Eiffel Tower $$ LOC: Paris $$ LOC: France",
+    "gold_entities": "LOC: Eiffel Tower $$ LOC: Paris $$ LOC: France",
+    "language": "en"
+  },
+  {
+    "id": "ner_005",
+    "text": "Microsoft Corporation headquarters is in Redmond, Washington.",
+    "prediction": "ORG: Microsoft Corporation $$ LOC: Redmond $$ LOC: Washington",
+    "gold_entities": "ORG: Microsoft Corporation $$ LOC: Redmond $$ LOC: Washington",
+    "language": "en"
+  }
+]

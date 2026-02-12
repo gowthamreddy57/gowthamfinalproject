@@ -1,0 +1,42 @@
+[
+  {
+    "id": "trans_001",
+    "source_text": "Hello, how are you?",
+    "source_lang": "en",
+    "target_lang": "es",
+    "prediction": "Hola, ¿cómo estás?",
+    "reference": "Hola, ¿cómo estás?"
+  },
+  {
+    "id": "trans_002",
+    "source_text": "The weather is beautiful today.",
+    "source_lang": "en",
+    "target_lang": "fr",
+    "prediction": "Le temps est magnifique aujourd'hui.",
+    "reference": "Le temps est beau aujourd'hui."
+  },
+  {
+    "id": "trans_003",
+    "source_text": "I love learning new languages.",
+    "source_lang": "en",
+    "target_lang": "de",
+    "prediction": "Ich liebe es, neue Sprachen zu lernen.",
+    "reference": "Ich liebe es, neue Sprachen zu lernen."
+  },
+  {
+    "id": "trans_004",
+    "source_text": "Bonjour le monde",
+    "source_lang": "fr",
+    "target_lang": "en",
+    "prediction": "Hello world",
+    "reference": "Hello world"
+  },
+  {
+    "id": "trans_005",
+    "source_text": "La inteligencia artificial está cambiando el mundo.",
+    "source_lang": "es",
+    "target_lang": "en",
+    "prediction": "Artificial intelligence is changing the world.",
+    "reference": "Artificial intelligence is changing the world."
+  }
+]

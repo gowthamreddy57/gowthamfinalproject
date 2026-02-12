@@ -1,0 +1,42 @@
+[
+  {
+    "id": "para_001",
+    "sentence1": "The cat sat on the mat.",
+    "sentence2": "A cat was sitting on the mat.",
+    "prediction": "paraphrase",
+    "gold_label": "paraphrase",
+    "language": "en"
+  },
+  {
+    "id": "para_002",
+    "sentence1": "The movie was really boring.",
+    "sentence2": "The film was incredibly exciting.",
+    "prediction": "not_paraphrase",
+    "gold_label": "not_paraphrase",
+    "language": "en"
+  },
+  {
+    "id": "para_003",
+    "sentence1": "She enjoys reading books.",
+    "sentence2": "Reading books is something she likes.",
+    "prediction": "paraphrase",
+    "gold_label": "paraphrase",
+    "language": "en"
+  },
+  {
+    "id": "para_004",
+    "sentence1": "El coche es rojo.",
+    "sentence2": "El automóvil tiene color rojo.",
+    "prediction": "paraphrase",
+    "gold_label": "paraphrase",
+    "language": "es"
+  },
+  {
+    "id": "para_005",
+    "sentence1": "I went to the store yesterday.",
+    "sentence2": "Yesterday I visited the shop.",
+    "prediction": "paraphrase",
+    "gold_label": "paraphrase",
+    "language": "en"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "qa_001",
+    "question": "What is the capital of France?",
+    "context": "France is a country in Western Europe. Paris is the capital and largest city of France. The city is known for the Eiffel Tower and its rich cultural heritage.",
+    "prediction": "Paris",
+    "gold_answer": "Paris",
+    "language": "en"
+  },
+  {
+    "id": "qa_002",
+    "question": "Who wrote Romeo and Juliet?",
+    "context": "Romeo and Juliet is a tragedy written by William Shakespeare early in his career. It is one of the most famous love stories in English literature.",
+    "prediction": "William Shakespeare",
+    "gold_answer": "William Shakespeare",
+    "language": "en"
+  },
+  {
+    "id": "qa_003",
+    "question": "¿Cuál es el río más largo de América del Sur?",
+    "context": "El río Amazonas es el río más largo de América del Sur y el segundo más largo del mundo. Fluye a través de Brasil, Perú y Colombia.",
+    "prediction": "El río Amazonas",
+    "gold_answer": "Amazonas",
+    "language": "es"
+  },
+  {
+    "id": "qa_004",
+    "question": "What year did World War II end?",
+    "context": "World War II was a global war that lasted from 1939 to 1945. It ended with the surrender of Japan on September 2, 1945.",
+    "prediction": "1945",
+    "gold_answer": "1945",
+    "language": "en"
+  },
+  {
+    "id": "qa_005",
+    "question": "Quelle est la plus haute montagne du monde?",
+    "context": "L'Everest est la plus haute montagne du monde, culminant à 8 849 mètres. Elle est située dans l'Himalaya, à la frontière entre le Népal et le Tibet.",
+    "prediction": "L'Everest",
+    "gold_answer": "Everest",
+    "language": "fr"
+  }
+]
